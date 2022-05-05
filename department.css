@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Cafe24Ssurround';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 페이지 전체에 글꼴을 설정하기 위해 */
+body{
+    font-family: 'Cafe24Ssurround';
+    background-size: cover;
+}
