@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Cafe24Ssurround';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2105_2@1.0/Cafe24Ssurround.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 페이지 전체에 글꼴을 설정하기 위해 */
+body{
+    font-family: 'Cafe24Ssurround';
+    background-image: url(https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAzMTNfMTMy%2FMDAxNjE1NjMzOTQwODIw.DCoaLEtG1AIlV5136VXxIyzBuk3w4wphySJr82Da_Qkg.PmozojOb8Fb248F_VLyIwP4W-QVTuNJU270fe8n0dKIg.JPEG.rani_el1004%2F%25C4%25C4%25B9%25E8%25B0%25E6-%25BA%25A2%25B2%25C9.jpg22.jpg&type=sc960_832);
+    background-size: cover;
+}
+
+article{
+    padding: 50px;
+    margin: 20px;
+}
+
+table{
+    padding: 50px auto;
+    margin: 80px auto;
+}
+
+h1{
+    font-size: 45px;
+    color: orange;
+}
+
+h2{
+    font-size: 35px;
+    color: purple;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+blockquote, footer{
+    font-size: 20px;
+    text-align: center;
+}
